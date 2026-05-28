@@ -34,4 +34,4 @@
 | --- | --- | --- | --- | --- |
 | WED-014 | Todo | P1 | Platform | Document deploy steps for Vercel, Netlify, and GitHub Pages. |
 | WED-015 | Todo | P1 | Platform | Add dependency update automation and review branch protection once the repo is public. |
-| WED-016 | Todo | P2 | Growth | Tune GitHub description/topics after the first push. |
+| WED-016 | Done | P2 | Growth | Tune GitHub description/topics after the first push. |
